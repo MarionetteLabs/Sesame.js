@@ -36,3 +36,10 @@ Backbone.Metal offers classes and mixins that will make it easier to build out r
 ### Why Sesame?
 
 In addition to our love of sesame bagels, Sesame Street is a collecion of some of the most loveable puppets around. Who wouldn't go for that.
+
+
+### Contribution Process
+
++ RFCs - The main way is to file an RFC issue or PR
++ Docs -  documentation for key class APIs
++ Examples - examples of small Sesame apps
