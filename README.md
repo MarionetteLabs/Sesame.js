@@ -10,7 +10,7 @@ Sesame is an experimental framework setup by the Marionette team.
 
 Minionette has great region support, which will support layouts and lists. Why Minionette Regions?
 + simpler API
-+ DOM replaacement - no extra elements
++ DOM replacement - no extra elements
 + decidedly not a view
 
 
@@ -35,7 +35,7 @@ Backbone.Metal offers classes and mixins that will make it easier to build out r
 
 ### Why Sesame?
 
-In addition to our love of sesame bagels, Sesame Street is a collecion of some of the most loveable puppets around. Who wouldn't go for that.
+In addition to our love of sesame bagels, Sesame Street is a collection of some of the most loveable puppets around. Who wouldn't go for that.
 
 
 ### Contribution Process
