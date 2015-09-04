@@ -43,3 +43,11 @@ In addition to our love of sesame bagels, Sesame Street is a collecion of some o
 + RFCs - The main way is to file an RFC issue or PR
 + Docs -  documentation for key class APIs
 + Examples - examples of small Sesame apps
+
+
+### Team
+
++ @jridgewell
++ @jmeas
++ @jasonlaster
++ @ianmstew
